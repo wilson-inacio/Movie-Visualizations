@@ -14,9 +14,9 @@ With this analysis, I hope to answer questions like:
    
 The project code and results are contained in the Jupyter Notebook Movie-Data.ipynb, with a summary of the conclusions below.
 
-The libraries and dependencies used were:
-Python (3.13.5)
-numpy==2.3.2
+The libraries and dependencies used were:<br>
+Python (3.13.5)<br>
+numpy==2.3.2<br>
 pandas==2.3.2
 
 ### The data
