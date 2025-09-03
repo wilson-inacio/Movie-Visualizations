@@ -16,8 +16,8 @@ The project code and results are contained in the Jupyter Notebook Movie-Data.ip
 
 The libraries and dependencies used were:<br>
 Python (3.13.5)<br>
-numpy==2.3.2<br>
-pandas==2.3.2
+numpy: 2.3.2<br>
+pandas: 2.3.2
 
 ### The data
 
