@@ -8,7 +8,6 @@ This project is one of the portfolio projects on the Data Science pathway at cod
 With this analysis, I hope to answer questions like:
  - What are the most popular genres, directors and ratings (R, PG, NC-17, ...)?
  - What is the return ratio for the movies, its average by genre and its impact on score?
- - What is the impact of budget and runtime on score?
  - How scores, budgets and runtimes changed across the years
  - Which directors work more often with which stars and which writers
    
