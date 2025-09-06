@@ -21,6 +21,6 @@ pandas: 2.3.2
 
 ### The data
 
-The dataset I chose was downloaded from [kaggle.com](https://www.kaggle.com/datasets/ashishkumarjayswal/movies-updated-data/data). It contains a collection of movie-related data, gathered from various sources, including IMDb.
+The dataset I chose was downloaded from [kaggle.com](https://www.kaggle.com/datasets/ashishkumarjayswal/movies-updated-data/data). It contains a collection of movie-related data, gathered from various sources including IMDb, over 20 years, from 1980 to 2001.
 
 ###  Conclusion
