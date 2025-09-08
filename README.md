@@ -22,6 +22,7 @@ pandas: 2.3.2
 
 Based on feedback, I decided to update the project with some visualizations to help understand the data and make the findings clearer. I'll also be adding some extra analysis of the data and adding some more bullet points to the conclusions at the end.
 
+The updated code and results are contained in the Jupyter Notebook Movie-Data-updated.ipynb
 
 ### The data
 
