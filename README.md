@@ -49,4 +49,4 @@ These are some findings I made during the analysis:
 - Woody Allen and Clint Eastwood appear again leading the top of directors working with the same production companies, with Allen collaborating with Jack Rollins & Charles H. Joffe Productions 11 times and Eastwood releasing 8 films with Warner Bros.
 - Eastwood is also the main actor in movies from Warner Bros., being the main actor in the 8 movies he directed for that company.
 - There is a clear tendency for directors to be the writers of the movies they are directing, but the writer with the most movies released is Stephen King, with 27 movie adaptations.
-The most highly scored writers are novelists and writers whose work has been adapted for the big screen, like Thomas Keneally and J.R.R. Tokien.
+The most highly scored writers are novelists and writers whose work has been adapted for the big screen, like Thomas Keneally and J.R.R. Tolkien.
