@@ -50,3 +50,8 @@ These are some findings I made during the analysis:
 - Eastwood is also the main actor in movies from Warner Bros., being the main actor in the 8 movies he directed for that company.
 - There is a clear tendency for directors to be the writers of the movies they are directing, but the writer with the most movies released is Stephen King, with 27 movie adaptations.
 The most highly scored writers are novelists and writers whose work has been adapted for the big screen, like Thomas Keneally and J.R.R. Tolkien.
+- "Titanic" is a big outlier in gross revenue with \\$2.2B in gross revenue, compared to second place "The Lion King" with a gross revenue of \\$1B.
+- The month with the most releases is October with 399 releases, followed by August with 381 and then March with 370. October releases might be influenced by Halloween movie releases.
+- The movie with the best profit rate is "The Blair Witch Project" with a budget of \\$6K and \\$249M in gross revenue.
+- Longer runtimes don't mean a better score, better scores cluster around the 105 minute mark.
+- There is no real correlation between higher budget movies and their gross revenue or score. High scores and high-grossing movies are spread across the entire budget range. This is surprising, as I was expecting for higher-budgeted movies to have better scores and better returns.
